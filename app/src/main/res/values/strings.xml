@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">QUIZ GAME</string>
+    <string name="account">Do not have an account yet?<font color="#5b39c6"><b><u>SIGN UP</u></b></font></string>
+    <string name="forgot_password"><u>I forgot my password</u></string>
+    <string name="sign_in">SIGN IN WITH GOOGLE</string>
+</resources>
